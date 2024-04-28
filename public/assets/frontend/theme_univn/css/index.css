@@ -1,0 +1,13 @@
+.hotline-phone-1 .quick-alo-phone.quick-alo-green .quick-alo-ph-img-circle,
+.hotline-phone-2 .quick-alo-ph-img-circle,
+.hotline-bar {
+    background-color: #DD3333 !important;
+}
+.hotline-phone-1 .quick-alo-phone.quick-alo-green .quick-alo-ph-circle-fill,
+.hotline-phone-2 .quick-alo-ph-circle-fill {
+    background: rgb(221, 51, 51, .7) !important;
+}
+
+.hotline-phone-1 .quick-alo-phone.quick-alo-green .quick-alo-ph-circle {
+    border-color: rgb(221, 51, 51, .7) !important;
+}
